@@ -4,6 +4,10 @@
 
 O **Tradutor Dev** é uma aplicação web de tradução de textos que utiliza a API **MyMemory** para traduzir entre múltiplos idiomas. Com uma interface intuitiva e responsiva, o projeto permite a troca dinâmica entre a língua de origem e de destino, além de apresentar uma experiência fluida de uso.
 
+## 📸 Demonstração
+
+Você pode visualizar o site [aqui](https://johnatang3.github.io/tradutor-dev/).
+
 ## Imagem do Projeto
 
 ![](https://i.ibb.co/D88v7xx/Sem-t-tulo.png)
